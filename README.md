@@ -2,6 +2,7 @@
 Tensor Flow initial course on Youtube: "ML Zero to Hero" by Laurence Moroney
 
 Lessons:
+
 0. Setting up 
 1. Intro to ML: https://www.youtube.com/watch?v=KNAWp2S3w94&ab_channel=TensorFlow / https://developers.google.com/codelabs/tensorflow-1-helloworld#0
 2. Basic computer vision with ML: https://www.youtube.com/watch?v=bemDFpNooA8&ab_channel=TensorFlow / https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab2-Computer-Vision.ipynb
