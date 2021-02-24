@@ -10,3 +10,4 @@ Lessons:
 
 Other resources:
 - Issue installing tensorflow (python 3.9 incompatible): https://stackoverflow.com/questions/48720833/could-not-find-a-version-that-satisfies-the-requirement-tensorflow
+- Issue executing scripts through VSCode Powershell (Set-ExecutionPolicy RemoteSigned / Set-ExecutionPolicy Restricted): https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
