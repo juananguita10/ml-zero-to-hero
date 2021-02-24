@@ -10,6 +10,6 @@ Lessons:
 4. Build an image classifier for rock, paper, scissors: https://www.youtube.com/watch?v=u2TjZzNuly8&ab_channel=TensorFlow / https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 
 Other resources:
-- Tensor Flow instllation: https://www.tensorflow.org/install/pip?hl=es-419#virtual-environment-install
+- Tensor Flow installation: https://www.tensorflow.org/install/pip?hl=es-419#virtual-environment-install
 - Issue installing tensorflow (python 3.9 incompatible): https://stackoverflow.com/questions/48720833/could-not-find-a-version-that-satisfies-the-requirement-tensorflow
 - Issue executing scripts through VSCode Powershell (Set-ExecutionPolicy RemoteSigned / Set-ExecutionPolicy Restricted): https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
